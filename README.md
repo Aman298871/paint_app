@@ -23,6 +23,9 @@ A simple and interactive Paint Drawing App developed using **Kotlin** and **Jetp
 
 ## 📱 Screenshots
 
+![image alt](https://github.com/Aman298871/paint_app/blob/a96aeb1af19219b3549ff0f558daa4ceadcac3f3/photo_2026-06-09_14-01-18.jpg)
+![image alt](https://github.com/Aman298871/paint_app/blob/a96aeb1af19219b3549ff0f558daa4ceadcac3f3/photo_2026-06-09_14-01-21.jpg)
+![image alt](https://github.com/Aman298871/paint_app/blob/a96aeb1af19219b3549ff0f558daa4ceadcac3f3/photo_2026-06-09_14-01-25.jpg)
 ## 🚀 Getting Started
 
 ### Prerequisites
